@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript error: attempting to access a property of an undefined variable. The file 'bug.js' contains the erroneous code, while 'bugSolution.js' provides a corrected version.
